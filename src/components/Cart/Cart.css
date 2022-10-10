@@ -1,0 +1,16 @@
+.cart {
+    position: sticky;
+    top: 0;
+    padding: 28px 15px 28px 15px;
+}
+
+.cart p{
+    font-size: 17px;
+}
+
+.cart h5{
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0;
+}
